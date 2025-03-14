@@ -16,3 +16,11 @@ val AddButtonContentColor = Color(0xFF000000)
 val HintTextColor = Color(0xFFBABABA)
 val PositiveChangeColor = Color(0xFF71D65D)
 val NegativeChangeColor = Color(0xFFF01C1C)
+
+val NavBarContainerColor = Color(0xFFF5F5F5)
+val NavBarContentColor = Color(0xFFFFFFFF)
+
+val ScaffoldContainerColor = Color(0xFFFFFFFF)
+
+val PrimaryTextColor = Color(0xFF111111)
+val PrimaryIconTint = Color(0xFF111111)
