@@ -29,7 +29,7 @@ fun TotalInfoCrypto(
         style = MaterialTheme.typography.titleLarge,
         color = HintTextColor
     )
-    Spacer(modifier = Modifier.height(DpSpSize.paddingMedium))
+    Spacer(modifier = Modifier.height(DpSpSize.paddingSmall))
     Text(
         text = "$totalAmount ${stringResource(R.string.usd)}",
         style = MaterialTheme.typography.displayMedium

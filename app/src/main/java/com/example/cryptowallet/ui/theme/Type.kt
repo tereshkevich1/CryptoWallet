@@ -44,7 +44,7 @@ val Typography = Typography(
     ),
     titleMedium = TextStyle(
         fontFamily = sfProRoundedFamily,
-        fontWeight = FontWeight.Normal,
+        fontWeight = FontWeight.SemiBold,
         fontSize = 18.sp,
         lineHeight = 26.sp,
         letterSpacing = 0.sp
@@ -75,6 +75,13 @@ val Typography = Typography(
         fontWeight = FontWeight.SemiBold,
         fontSize = 14.sp,
         lineHeight = 18.sp,
+        letterSpacing = 0.5.sp
+    ),
+    labelMedium = TextStyle(
+        fontFamily = sfProRoundedFamily,
+        fontWeight = FontWeight.SemiBold,
+        fontSize = 12.sp,
+        lineHeight = 16.sp,
         letterSpacing = 0.5.sp
     )
 )
