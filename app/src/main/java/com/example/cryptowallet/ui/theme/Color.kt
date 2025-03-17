@@ -24,3 +24,5 @@ val ScaffoldContainerColor = Color(0xFFFFFFFF)
 
 val PrimaryTextColor = Color(0xFF111111)
 val PrimaryIconTint = Color(0xFF111111)
+
+val CardContainerColor = Color(0xFFF5F5F5)
